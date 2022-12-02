@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2eec279c-4054-4719-8b3d-c0f22d24d506" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stampante.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/unipv/sfw/stampante/Stampante.java" afterDir="false" />
+    <list default="true" id="2eec279c-4054-4719-8b3d-c0f22d24d506" name="Changes" comment="STAMPANTE">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/unipv/sfw/stampante/Stampante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/unipv/sfw/stampante/Stampante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/unipv/sfw/stampante/colore/Cartuccia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/unipv/sfw/stampante/Cartuccia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/unipv/sfw/stampante/colore/Colore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/unipv/sfw/stampante/colore/Colore.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,12 +16,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IMOTWDpohOa5y4C0BiUmqY7KET" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -47,8 +48,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669987996913</updated>
-      <workItem from="1669987999164" duration="287000" />
+      <workItem from="1669987999164" duration="6453000" />
     </task>
+    <task id="LOCAL-00001" summary="STAMPANTE">
+      <created>1669988374230</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669988374230</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -59,10 +68,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Stampante/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="STAMPANTE" />
+    <option name="LAST_COMMIT_MESSAGE" value="STAMPANTE" />
   </component>
 </project>
